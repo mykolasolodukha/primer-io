@@ -2,7 +2,12 @@
 name = "primer-io"
 version = "0.1.0"
 description = "A project created exclusively to reserve the `primer-io` namespace."
+license = "Proprietary"
 authors = ["Mykola Solodukha <mykola@primer.io>"]
+
+readme = "README.md"
+repository = "https://github.com/mykolasolodukha/primer-io"
+keywords = ["primer", "primer-io"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
