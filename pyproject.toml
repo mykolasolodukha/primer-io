@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "primer-io"
-version = "0.1.0"
+version = "0.1.1"
 description = "A project created exclusively to reserve the `primer-io` namespace."
 license = "Proprietary"
 authors = ["Mykola Solodukha <mykola@primer.io>"]
